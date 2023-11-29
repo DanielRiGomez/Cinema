@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "Jaws",
+    "cast" : ["Roy Scheider","Richard Dreyfuss","Robert Shaw","Lorraine Gary"],
+    "synopsisKey" : "jawsReview",
+    "classification" : "R",
+    "direction" : "Steven Spielberg",
+    "pathIcon" : "jawsPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":15},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "jawsMovie.json"
+}

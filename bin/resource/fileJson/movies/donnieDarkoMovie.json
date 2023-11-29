@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "Donnie Darko",
+    "cast" : ["Jake Gyllenhaal","Jena Malone"," Maggie Gyllenhaal","Drew Barrymore"],
+    "synopsisKey" : "donnieDarkoReview",
+    "classification" : "+13",
+    "direction" : "Richard Kelly",
+    "pathIcon" : "donnieDarkoPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":1},
+    "finalDate" : {"year":2020,"month":10,"day":30},
+    "inExposition" : false,
+    "fileName" : "donnieDarkoMovie.json"
+}

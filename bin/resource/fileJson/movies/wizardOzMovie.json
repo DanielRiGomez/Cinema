@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "the Wizard Oz",
+    "cast" : ["Judy Garland","Ray Bolger","Jack Haley","Margaret Hamilton"],
+    "synopsisKey" : "wizardOzReview",
+    "classification" : "G",
+    "direction" : "Victor Fleming",
+    "pathIcon" : "wizardOzPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":30},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "wizardOzMovie.json"
+}

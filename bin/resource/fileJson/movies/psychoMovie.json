@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "Psycho",
+    "cast" : ["Anthony Perkins","Janet Leigh","Vera Miles","John Gavin", "Martin Balsam"],
+    "synopsisKey" : "psychoReview",
+    "classification" : "R",
+    "direction" : "Alfred Hitchcock",
+    "pathIcon" : "psychoPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":20},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "psychoMovie.json"
+}

@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "Sunset Boulevard",
+    "cast" : ["Keir Dullea","Gary Lockwood","Arthur C. CLarke","HAL 9000"],
+    "synopsisKey" : "sunsetBoulevardReview",
+    "classification" : "NR",
+    "direction" : "Billy Wilder",
+    "pathIcon" : "sunsetBoulevardPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":25},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "sunsetBoulevardMovie.json"
+}

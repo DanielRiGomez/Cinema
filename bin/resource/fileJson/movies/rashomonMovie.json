@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "Rashomon",
+    "cast" : ["Toshirō Mifune","Machiko Kyō","Kichijirō Ueda","Takashi Shimura"],
+    "synopsisKey" : "rashomonReview",
+    "classification" : "G",
+    "direction" : "Akira Kurosawa",
+    "pathIcon" : "rashomonPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":25},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "rashomonMovie.json"
+}

@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "The Great Dictator",
+    "cast" : ["Charles Chaplin","Paulette Goddard","Jack Oakie","Henry Daniell"],
+    "synopsisKey" : "greatDictatorReview",
+    "classification" : "TP",
+    "direction" : "Charles Chaplin",
+    "pathIcon" : "greatDictatorPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":15},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "greatDictatorMovie.json"
+}

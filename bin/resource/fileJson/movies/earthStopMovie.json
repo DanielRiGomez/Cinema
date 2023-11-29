@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "The Day the Earth Stood Still ",
+    "cast" : ["Michael Rennie","Patricia Neal","Hugh Marlowe","Sam Jaffe"],
+    "synopsisKey" : "earthStopReview",
+    "classification" : "G",
+    "direction" : "Robert Wise",
+    "pathIcon" : "earthStopPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":10},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+    "inExposition" : false,
+    "fileName" : "earthStopMovie.json"
+}

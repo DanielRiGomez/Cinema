@@ -1,0 +1,12 @@
+{
+    "originalTitle" : "Das Cabinet des Dr. Caligari",
+    "cast" : ["Conrad Veidt","Werner Krauß","Friedrich Feher","Lil Dagover"],
+    "synopsisKey" : "DrCaligariReview",
+    "classification" : "G",
+    "direction" : "Robert Wiene",
+    "pathIcon" : "DrCaligariPost.jpg",
+    "initDate" : {"year":2020,"month":10,"day":1},
+    "finalDate" : {"year":2020,"month":10,"day":30},
+    "inExposition" : false,
+    "fileName" : "DrCaligariMovie.json"
+}

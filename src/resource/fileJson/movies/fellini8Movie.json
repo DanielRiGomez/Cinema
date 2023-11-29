@@ -1,0 +1,12 @@
+{
+	"originalTitle":"Otto e mezzo",
+	"cast":["Marcello Mastroianne","Claudia Cardianel","Anouk Aimee","Barbara Steele"],
+	"synopsisKey" : "fellini8Review",
+	"classification":"+13",
+	"direction":"Federico Fellini",
+	"pathIcon":"fellini8Post.jpg",
+    "initDate" : {"year":2020,"month":10,"day":10},
+    "finalDate" : {"year":2020,"month":11,"day":30},
+	"inExposition":false,
+	"fileName":"fellini8Movie.json"
+}
